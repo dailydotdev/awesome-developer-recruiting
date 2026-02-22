@@ -33,7 +33,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 *Platforms for finding and reaching out to developer candidates.*
 
 - [LinkedIn Recruiter](https://www.linkedin.com/talent/hire) - Sourcing platform with developer-focused search filters by skills, company, and experience.
-- [daily.dev Recruiter](https://recruiter.daily.dev) - Developer sourcing platform using behavioral signals and opt-in candidate introductions.
+- [daily.dev Recruiter](https://recruiter.daily.dev) - Recruiting platform built on a network of 1M+ developers, using reading and skill signals for sourcing.
 - [SeekOut](https://seekout.com) - Talent search tool that aggregates technical profile data from multiple public sources.
 - [hireEZ](https://hireez.com) - Sourcing platform with Boolean search across open web profiles.
 - [Hired](https://hired.com) - Hiring marketplace where candidates set expectations and companies send interview requests.
@@ -44,6 +44,10 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Gun.io](https://gun.io) - Freelance marketplace focused on software engineers.
 - [Arc.dev](https://arc.dev) - Remote hiring service for developer roles with screening and assessment features.
 - [Dice](https://www.dice.com) - Tech job board and candidate database for software and IT roles.
+- [OfferZen](https://www.offerzen.com) - Developer job marketplace where companies apply to candidates, primarily active in South Africa and Europe.
+- [Underdog.io](https://underdog.io) - Curated marketplace matching vetted candidates with startup roles in tech hubs.
+- [cord](https://cord.co) - Messaging-first hiring platform where recruiters and candidates connect through direct chat.
+- [Dover](https://www.dover.com) - Recruiting orchestration platform with sourcing automation and a free ATS for startups.
 
 ## Applicant Tracking Systems
 
@@ -59,6 +63,11 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Breezy HR](https://breezy.hr) - ATS with visual pipeline management and workflow automation.
 - [Pinpoint](https://pinpointhq.com) - ATS with analytics and employer branding capabilities.
 - [Comeet](https://www.comeet.com) - Recruiting software with interview, collaboration, and offer workflows.
+- [Workable](https://www.workable.com) - ATS with AI sourcing, interview scheduling, and offer management.
+- [TalentLyft](https://www.talentlyft.com) - Recruiting software combining ATS, CRM, and sourcing in one platform.
+- [Jobvite](https://www.jobvite.com) - Talent acquisition suite with ATS, CRM, and onboarding tools.
+- [SmartRecruiters](https://www.smartrecruiters.com) - Enterprise hiring platform with marketplace integrations and collaborative workflows.
+- [JazzHR](https://www.jazzhr.com) - ATS designed for small and mid-size companies with customizable hiring workflows.
 
 ## Technical Assessment
 
@@ -74,6 +83,10 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Coderbyte](https://coderbyte.com) - Coding challenge library and assessment platform for technical screening.
 - [Devskiller](https://devskiller.com) - Assessment platform using task-based coding exercises.
 - [Exercism](https://exercism.org) - Free coding practice site with mentor feedback.
+- [CodinGame for Work](https://www.codingame.com/work) - Technical screening platform combining coding challenges with game-based assessments.
+- [iMocha](https://www.imocha.io) - Skills intelligence platform with coding assessments and AI-powered interview tools.
+- [HiPeople](https://www.hipeople.io) - Reference checking and talent assessment platform with automated candidate verification.
+- [AlgoExpert](https://www.algoexpert.io) - Structured preparation platform for algorithm and system design interviews.
 
 ## Job Boards for Developers
 
@@ -89,6 +102,11 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [4 Day Week](https://4dayweek.io) - Job board for companies offering four-day work schedules.
 - [dev.to Listings](https://dev.to/listings) - Job listings posted through the DEV community platform.
 - [LinkedIn Jobs](https://www.linkedin.com/jobs) - Job marketplace with broad filters for technical roles.
+- [Work at a Startup](https://www.workatastartup.com) - Y Combinator job board for engineering roles at YC-backed companies.
+- [Climatebase](https://climatebase.org) - Job board for climate tech roles, including software engineering positions.
+- [JavaScript.Jobs](https://javascript.jobs) - Job board dedicated to JavaScript and frontend engineering positions.
+- [Himalayas](https://himalayas.app) - Remote job board with company profiles, salary data, and timezone filters.
+- [Authentic Jobs](https://authenticjobs.com) - Job board focused on web and creative technology roles.
 
 ## CRM and Outreach
 
@@ -103,6 +121,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Humanly](https://humanly.io) - Conversational screening and scheduling tool for early-stage candidate workflows.
 - [Beamery](https://beamery.com) - Talent CRM for candidate engagement and workforce planning.
 - [Eightfold](https://eightfold.ai) - Talent intelligence system for matching and mobility workflows.
+- [SourceWhale](https://sourcewhale.com) - Multi-channel outreach platform with sequencing across email, LinkedIn, and phone.
+- [Getro](https://www.getro.com) - Network-powered job board and warm introduction tool for portfolio companies and communities.
 
 ## Interview Platforms
 
@@ -115,6 +135,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [HireVue](https://www.hirevue.com) - Video interviewing platform with live and on-demand interview formats.
 - [Willo](https://www.willo.video) - Asynchronous video interview tool for distributed hiring.
 - [Pillar](https://www.pillar.hr) - Interview support tool with guidance, notes, and evidence tracking.
+- [Pramp](https://www.pramp.com) - Free peer-to-peer mock interview platform for practicing coding and system design interviews.
 
 ## AI Recruiting Tools
 
@@ -129,6 +150,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Manatal](https://www.manatal.com) - ATS with candidate recommendations and enrichment features.
 - [Phenom](https://www.phenom.com) - Talent experience suite with automation for high-volume recruiting.
 - [Entelo](https://www.entelo.com) - Sourcing platform with predictive candidate matching.
+- [Moonhub](https://www.moonhub.ai) - AI recruiting agent that autonomously sources and screens candidates.
+- [Attract.ai](https://attract.ai) - AI-powered sourcing tool that searches across social platforms and generates personalized outreach.
 
 ## Job Description Tools
 
@@ -140,6 +163,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Applied](https://www.beapplied.com) - Hiring workflow tool with blind screening and structured evaluation.
 - [TalVista](https://talvista.com) - Inclusive hiring tool with job post and interview process features.
 - [Hemingway Editor](https://hemingwayapp.com) - Writing editor that flags complex sentences and passive voice.
+- [Grammarly Business](https://www.grammarly.com/business) - Writing assistant with tone and clarity suggestions useful for recruiter communications.
 
 ## Employer Branding
 
@@ -151,6 +175,9 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [RepVue](https://www.repvue.com) - Employer ratings site with culture and compensation feedback.
 - [Comparably](https://www.comparably.com) - Company comparison site for workplace and compensation benchmarks.
 - [Stack Overflow Employer Branding](https://stackoverflow.co/advertising/use-cases/employer-branding-teams/) - Employer branding and ad products for Stack Overflow.
+- [dev.to](https://dev.to) - Developer community where companies can publish technical content and engage with engineers directly.
+- [Showwcase](https://www.showwcase.com) - Developer network where engineers share projects and connect with teams.
+- [GitHub README Profiles](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) - Guide for creating company and team profile READMEs to attract developer talent.
 
 ## Developer Compensation
 
@@ -176,6 +203,11 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Diversio](https://diversio.com) - DEI analytics tool for measuring inclusion metrics.
 - [Project Include](https://projectinclude.org) - Non-profit organization publishing inclusion guidance for tech teams.
 - [Code2040](https://www.code2040.org) - Non-profit organization supporting Black and Latinx technologists.
+- [Untapped](https://www.untapped.io) - Recruiting platform focused on connecting underrepresented candidates with tech employers.
+- [WayUp](https://www.wayup.com) - Job platform for early-career hiring with a focus on diverse college graduates and entry-level talent.
+- [Inclusively](https://www.inclusively.com) - Workplace personalization platform for accommodations and inclusive hiring practices.
+- [Out in Tech](https://outintech.com) - Community and job board for LGBTQ+ professionals in technology.
+- [/dev/color](https://devcolor.org) - Non-profit community supporting Black software engineers through mentorship and networking.
 
 ## Open Source Recruiting Tools
 
@@ -184,6 +216,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [OpenCATS](https://www.opencats.org) - Open-source applicant tracking system for candidate and job management.
 - [OpenResume](https://www.open-resume.com) - Open-source resume builder with ATS-focused formatting.
 - [Freshteam](https://www.freshworks.com/hrms/applicant-tracking) - ATS with a free tier for basic applicant tracking.
+- [RxResume](https://rxresu.me) - Free and open-source resume builder with customizable templates and JSON export.
 
 ## Newsletters
 
@@ -196,6 +229,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Hacking HR](https://www.hackinghr.com) - Newsletter covering HR, people analytics, and workforce topics.
 - [People Managing People](https://peoplemanagingpeople.com/newsletter) - Weekly newsletter on hiring and people management.
 - [Chad & Cheese](https://www.chadcheese.com/subscribe) - Newsletter with commentary on recruiting tools and HR technology.
+- [Technically](https://read.technically.dev) - Newsletter on software concepts explained for non-engineers, useful for recruiters learning technical terminology.
 
 ## Communities
 
@@ -205,6 +239,9 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [r/recruiting](https://www.reddit.com/r/recruiting/) - Reddit forum for recruiting questions and peer discussion.
 - [SourceCon Community](https://newsletter.sourcecon.com) - Community and event network focused on sourcing and recruiting.
 - [RecOps Collective](https://www.recops.co) - Community focused on recruiting operations systems and workflows.
+- [r/humanresources](https://www.reddit.com/r/humanresources/) - Reddit community for HR professionals discussing hiring, compliance, and people operations.
+- [Hacker News](https://news.ycombinator.com) - Developer community and discussion forum useful for understanding what engineers care about.
+- [People Geek Community by Culture Amp](https://www.cultureamp.com/company/community) - Peer community for people and talent leaders sharing hiring and engagement practices.
 
 ## Podcasts
 
@@ -228,6 +265,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [The Best Team Wins](https://www.amazon.com/Best-Team-Wins-Performance-Based-Assessment/dp/1633692604) - Book on performance-based interviewing and candidate evaluation.
 - [Hiring for Attitude](https://www.amazon.com/Hiring-Attitude-Innovative-Approach-Employees/dp/0071785868) - Book on evaluating attitude and cultural fit in hiring.
 - [Talent Magnet](https://www.amazon.com/Talent-Magnet-Attract-Keep-Best/dp/1626346410) - Book on leadership approaches for attracting and retaining talent.
+- [The Holloway Guide to Technical Recruiting](https://www.holloway.com/g/technical-recruiting-hiring) - Comprehensive guide covering every stage of the technical hiring pipeline.
+- [The Talent War](https://www.amazon.com/Talent-War-Military-Approach-Recruiting/dp/1544514948) - Book on applying military talent assessment methods to corporate recruiting.
 
 ## Blogs and Publications
 
@@ -240,6 +279,9 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Joel on Software](https://www.joelonsoftware.com) - Essays on software teams, hiring, and management.
 - [First Round Review](https://review.firstround.com) - Startup-focused articles on hiring and company building.
 - [Ashby Blog](https://www.ashbyhq.com/blog) - Blog on recruiting operations and hiring systems.
+- [interviewing.io Blog](https://interviewing.io/blog) - Data-driven articles on technical interviewing, bias, and hiring outcomes.
+- [Lever Blog](https://www.lever.co/blog) - Blog on recruiting strategies, pipeline management, and talent operations.
+- [Undercover Recruiter](https://theundercoverrecruiter.com) - Blog covering recruiting strategies, employer branding, and talent trends.
 
 ## Research and Reports
 
@@ -253,6 +295,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [HackerRank Developer Skills Report](https://www.hackerrank.com/research/developer-skills) - Annual report on developer skills and hiring needs.
 - [CodinGame Developer Survey](https://www.codingame.com/work/developer-survey) - Survey on developer preferences in hiring and technical assessment.
 - [DevSkiller IT Skills Report](https://devskiller.com/it-skills-report) - Report on developer skill trends based on assessment data.
+- [Dice Tech Salary Report](https://www.dice.com/recruiting/ebooks/tech-salary-report) - Annual report on technology salary trends across roles and markets.
+- [Jobvite Recruiting Benchmark Report](https://www.jobvite.com/lp/recruiting-benchmark-report) - Annual benchmarks on applicant-to-hire ratios, time-to-fill, and sourcing channels.
 
 ## Glossaries and References
 
@@ -261,6 +305,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary) - Reference glossary of common GitHub terms.
 - [Stack Overflow Tags](https://stackoverflow.com/tags) - Tag directory for programming languages and developer tools.
 - [SHRM HR Glossary](https://www.shrm.org/topics-tools/tools/hr-glossary) - Reference glossary of HR and recruitment terms.
+- [Roadmap.sh](https://roadmap.sh) - Community-driven developer roadmaps and skill trees useful for understanding role requirements.
+- [DevDocs](https://devdocs.io) - API documentation browser covering programming languages and frameworks, useful for learning technical terminology.
 
 ## Conferences and Events
 
