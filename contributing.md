@@ -15,7 +15,7 @@ Please ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and description explaining why the resource is awesome.
+- The pull request should include a clear title and a short note on why the resource belongs in this list.
 
 ## Updating Your Pull Request
 
@@ -23,9 +23,9 @@ If the maintainers notice anything that needs to change before merging, we will 
 
 ## What We Are Looking For
 
-- Tools that are actively maintained and widely used in the developer recruiting space.
-- Free resources that provide genuine value to tech recruiters.
-- Research and reports with original data or unique insights.
+- Tools that are actively maintained and used in developer recruiting.
+- Free resources that are useful to tech recruiters.
+- Research and reports with original data or clear insights.
 - Communities with active, engaged membership.
 - Content (blogs, podcasts, books) that specifically addresses the nuances of hiring developers.
 
@@ -33,8 +33,8 @@ If the maintainers notice anything that needs to change before merging, we will 
 
 - General recruitment tools with no specific developer or tech focus.
 - Unmaintained, deprecated, or archived projects.
-- Resources entirely behind paywalls with no free tier or trial unless exceptionally valuable.
+- Resources behind full paywalls, unless there is a strong reason to include them.
 - Affiliate links or marketing content disguised as resources.
 - Duplicate entries or tools that replicate an existing entry without clear differentiation.
 
-Thank you for your suggestions!
+Thanks for helping improve the list.
