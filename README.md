@@ -4,8 +4,17 @@
 
 Developer recruiting is a specialized discipline. Generic recruiting tools often miss the details of technical hiring, from evaluating GitHub profiles to writing job descriptions engineers actually read. This list focuses on tools and knowledge for finding, assessing, and hiring developers.
 
+## Start Here
+
+Pick the path that matches your role:
+
+- **First-time recruiter**: Start with [Glossaries and References](#glossaries-and-references), then review [Job Description Tools](#job-description-tools), and use [Interview Platforms](#interview-platforms) to run structured technical interviews.
+- **Startup hiring manager**: Start with [Sourcing Platforms](#sourcing-platforms) and [Job Boards for Developers](#job-boards-for-developers), then use [Technical Assessment](#technical-assessment) and [Developer Compensation](#developer-compensation) to move from pipeline to offer.
+- **Enterprise TA lead**: Start with [Applicant Tracking Systems](#applicant-tracking-systems) and [CRM and Outreach](#crm-and-outreach), then benchmark process quality with [Research and Reports](#research-and-reports) and [Diversity and Inclusion](#diversity-and-inclusion).
+
 ## Contents
 
+- [Start Here](#start-here)
 - [Sourcing Platforms](#sourcing-platforms)
 - [Applicant Tracking Systems](#applicant-tracking-systems)
 - [Technical Assessment](#technical-assessment)
