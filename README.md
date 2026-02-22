@@ -6,7 +6,6 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 
 ## Contents
 
-- [Start Here](#start-here)
 - [Sourcing Platforms](#sourcing-platforms)
 - [Applicant Tracking Systems](#applicant-tracking-systems)
 - [Technical Assessment](#technical-assessment)
@@ -28,19 +27,6 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Glossaries and References](#glossaries-and-references)
 - [Conferences and Events](#conferences-and-events)
 - [Last Verified](#last-verified)
-
-## Start Here
-
-Pick the path that matches your role:
-
-### First-time recruiter
-Start with Glossaries and References, then review Job Description Tools, and use Interview Platforms to run structured technical interviews.
-
-### Startup hiring manager
-Start with Sourcing Platforms and Job Boards for Developers, then use Technical Assessment and Developer Compensation to move from pipeline to offer.
-
-### Enterprise TA lead
-Start with Applicant Tracking Systems and CRM and Outreach, then benchmark process quality with Research and Reports and Diversity and Inclusion.
 
 ## Sourcing Platforms
 
@@ -88,7 +74,6 @@ Start with Applicant Tracking Systems and CRM and Outreach, then benchmark proce
 - [Coderbyte](https://coderbyte.com) - Coding challenge library and assessment platform for technical screening.
 - [Devskiller](https://devskiller.com) - Assessment platform using task-based coding exercises.
 - [Exercism](https://exercism.org) - Free coding practice site with mentor feedback.
-- [Skills Checklist Builder by daily.dev](https://recruiter.daily.dev/toolkit/skills-checklist) - Free checklist builder for evaluating role-specific technical skills.
 
 ## Job Boards for Developers
 
@@ -130,7 +115,6 @@ Start with Applicant Tracking Systems and CRM and Outreach, then benchmark proce
 - [HireVue](https://www.hirevue.com) - Video interviewing platform with live and on-demand interview formats.
 - [Willo](https://www.willo.video) - Asynchronous video interview tool for distributed hiring.
 - [Pillar](https://www.pillar.hr) - Interview support tool with guidance, notes, and evidence tracking.
-- [Interview Questions Hub by daily.dev](https://recruiter.daily.dev/toolkit/interview-questions) - Free library of technical interview questions by role and stack.
 
 ## AI Recruiting Tools
 
@@ -150,7 +134,6 @@ Start with Applicant Tracking Systems and CRM and Outreach, then benchmark proce
 
 *Tools for writing and optimizing developer job descriptions.*
 
-- [Job Description Generator by daily.dev](https://recruiter.daily.dev/toolkit/job-description-generator) - Free job description template generator by role and stack.
 - [Gender Decoder](https://gender-decoder.katmatfield.com) - Tool for checking job posts for gender-coded wording.
 - [Datapeople](https://www.datapeople.io) - Job description analysis tool with language feedback and benchmarks.
 - [Ongig](https://www.ongig.com) - Job description text analysis tool for readability and bias checks.
@@ -222,7 +205,6 @@ Start with Applicant Tracking Systems and CRM and Outreach, then benchmark proce
 - [r/recruiting](https://www.reddit.com/r/recruiting/) - Reddit forum for recruiting questions and peer discussion.
 - [SourceCon Community](https://newsletter.sourcecon.com) - Community and event network focused on sourcing and recruiting.
 - [RecOps Collective](https://www.recops.co) - Community focused on recruiting operations systems and workflows.
-- [Hiring Academy by daily.dev](https://recruiter.daily.dev/academy) - Learning hub for developer hiring guides and frameworks.
 
 ## Podcasts
 
@@ -251,7 +233,6 @@ Start with Applicant Tracking Systems and CRM and Outreach, then benchmark proce
 
 *Regularly updated blogs about developer hiring.*
 
-- [Recruiting Resources by daily.dev](https://recruiter.daily.dev/resources) - Articles and guides on developer recruiting practices.
 - [LinkedIn Talent Blog](https://www.linkedin.com/business/talent/blog) - Blog with hiring data, trends, and recruiting guidance.
 - [The Pragmatic Engineer Blog](https://blog.pragmaticengineer.com) - Blog on engineering leadership, hiring, and compensation.
 - [Greenhouse Blog](https://www.greenhouse.com/blog) - Blog on interviewing, structured hiring, and recruiting operations.
@@ -277,7 +258,6 @@ Start with Applicant Tracking Systems and CRM and Outreach, then benchmark proce
 
 *Reference materials for understanding tech recruiting terminology.*
 
-- [Tech Recruiting Glossary by daily.dev](https://recruiter.daily.dev/glossary) - Glossary of technology and recruiting terminology.
 - [GitHub Glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary) - Reference glossary of common GitHub terms.
 - [Stack Overflow Tags](https://stackoverflow.com/tags) - Tag directory for programming languages and developer tools.
 - [SHRM HR Glossary](https://www.shrm.org/topics-tools/tools/hr-glossary) - Reference glossary of HR and recruitment terms.
