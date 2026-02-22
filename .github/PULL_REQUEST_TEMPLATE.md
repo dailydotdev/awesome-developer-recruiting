@@ -1,6 +1,6 @@
 ## Description
 
-Briefly describe what this pull request changes and why.
+Describe what changed and why it should be included.
 
 ## Type of Change
 
@@ -21,4 +21,4 @@ Briefly describe what this pull request changes and why.
 
 ## Additional Context
 
-Include links, screenshots, or references if helpful.
+Add links, references, or screenshots if they help with review.
