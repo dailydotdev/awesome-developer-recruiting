@@ -51,7 +51,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Greenhouse](https://www.greenhouse.com) - Structured hiring platform with scorecards, interview kits, and analytics designed for repeatable processes.
 - [Lever](https://www.lever.co) - Combined ATS and CRM with collaborative hiring workflows and diversity analytics.
 - [Ashby](https://www.ashby.com) - All-in-one recruiting platform with built-in analytics, scheduling, and CRM for high-growth companies.
-- [Workday Recruiting](https://www.workday.com/en-us/products/talent-management/recruiting.html) - Enterprise talent acquisition module integrated with the broader Workday HCM suite.
+- [Workday Recruiting](https://www.workday.com/en-ca/applications/human-capital-management/recruiting.html) - Enterprise talent acquisition module integrated with the broader Workday HCM suite.
 - [Teamtailor](https://www.teamtailor.com) - Modern ATS with strong employer branding features and career site builder.
 - [BambooHR](https://www.bamboohr.com) - HR platform with ATS capabilities designed for small to mid-sized companies.
 - [Recruitee](https://recruitee.com) - Collaborative hiring software with pipeline management and employer branding tools.
@@ -152,7 +152,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Builtin](https://builtin.com) - Tech-focused employer branding and job board targeting developers in major tech hubs.
 - [RepVue](https://www.repvue.com) - Employer ratings platform where tech professionals rate their companies on culture and compensation.
 - [Comparably](https://www.comparably.com) - Workplace culture and compensation comparison platform with employer branding features.
-- [Stack Overflow Employer Branding](https://stackoverflow.co/employer-branding) - Company page and targeted advertising reaching 100M+ monthly developers.
+- [Stack Overflow Employer Branding](https://stackoverflow.co/advertising/use-cases/employer-branding-teams/) - Company page and targeted advertising reaching 100M+ monthly developers.
 
 ## Developer Compensation
 
@@ -194,10 +194,10 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [The 1% Tech Recruiter by daily.dev](https://recruiter.daily.dev/newsletter) - Weekly intelligence briefing with data-backed insights on developer behavior and hiring trends.
 - [Recruiting Brainfood](https://recruitingbrainfood.com) - Industry-standard weekly newsletter covering recruitment technology, tools, and strategy.
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com) - Newsletter from a former engineering manager covering tech hiring, compensation, and industry trends.
-- [Recruiting Daily](https://recruitingdaily.com/newsletter) - Newsletter focused on recruitment operations, sourcing, and talent acquisition technology.
+- [Recruiting Daily](https://recruitingdaily.com/recruitingdaily-newsletter/) - Newsletter focused on recruitment operations, sourcing, and talent acquisition technology.
 - [Hacking HR](https://www.hackinghr.com) - HR innovation newsletter covering people analytics, recruiting tech, and workforce trends.
 - [People Managing People](https://peoplemanagingpeople.com/newsletter) - Weekly newsletter on hiring, management, and building high-performing teams.
-- [Chad & Cheese](https://www.chadcheese.com/newsletter) - Irreverent HR tech industry newsletter with recruiting tool reviews and industry commentary.
+- [Chad & Cheese](https://www.chadcheese.com/subscribe) - Irreverent HR tech industry newsletter with recruiting tool reviews and industry commentary.
 
 ## Communities
 
@@ -205,7 +205,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 
 - [Recruiting Brainfood Community](https://brainfood.social) - Slack community of 30,000+ recruiters sharing tips, tools, and industry knowledge.
 - [r/recruiting](https://www.reddit.com/r/recruiting/) - Reddit community for recruiters to discuss strategies, tools, and industry challenges.
-- [SourceCon Community](https://www.sourcecon.com/community) - Conference and community focused on sourcing strategies and technical recruiting.
+- [SourceCon Community](https://newsletter.sourcecon.com) - Conference and community focused on sourcing strategies and technical recruiting.
 - [RecOps Collective](https://www.recops.co) - Community focused on recruiting operations best practices and tooling.
 - [Hiring Academy by daily.dev](https://recruiter.daily.dev/academy) - Comprehensive hiring resource hub covering developer roles, tech stacks, and interviewing strategies.
 
@@ -214,10 +214,10 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 *Podcasts about technical recruiting and talent acquisition.*
 
 - [Talk Talent to Me](https://www.hired.com/blog/podcast) - Interviews with talent leaders at top tech companies about their hiring strategies.
-- [The Recruitment Hackers](https://www.talkpush.com/podcast) - Conversations about recruitment innovation, automation, and candidate experience.
+- [The Recruitment Hackers](https://www.therecruitmenthackers.com) - Conversations about recruitment innovation, automation, and candidate experience.
 - [Chad & Cheese Podcast](https://www.chadcheese.com) - Unfiltered HR tech industry commentary, recruiting tool reviews, and hiring trend analysis.
 - [RecTech Podcast](https://www.rectechpodcast.com) - HR technology podcast covering ATS, CRM, and recruiting tool innovations.
-- [The Recruiting Future Podcast](https://mattalder.com/podcast) - Conversations about the future of recruiting, automation, and talent strategy.
+- [The Recruiting Future Podcast](https://recruitingfuture.com/podcast/) - Conversations about the future of recruiting, automation, and talent strategy.
 - [People Solving Problems](https://www.peoplesolvingproblems.com) - Engineering leaders discuss hiring philosophies and building engineering culture.
 
 ## Books
@@ -274,7 +274,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [SourceCon](https://www.sourcecon.com) - Premier conference for sourcing professionals with deep dives into technical recruiting tools.
 - [RecFest](https://recfest.com) - Europe's largest recruiting festival with 5,000+ talent leaders and 100+ speakers.
 - [HR Technology Conference](https://www.hrtechnologyconference.com) - Annual HR tech Expo covering ATS, talent intelligence, and recruiting innovations.
-- [Talent Connect by LinkedIn](https://www.linkedin.com/talent-connect) - LinkedIn's annual conference for talent leaders on hiring strategy and workforce planning.
+- [Talent Connect by LinkedIn](https://www.linkedintalentconnect.com/) - LinkedIn's annual conference for talent leaders on hiring strategy and workforce planning.
 - [Unleash World](https://www.unleash.ai) - Future of work conference covering HR tech, talent acquisition, and people analytics.
 - [SaaStr Annual](https://www.saastr.com/annual) - SaaS conference with tactical sessions on hiring engineers at scaling companies.
 
