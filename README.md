@@ -338,6 +338,10 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [SaaStr Annual](https://www.saastr.com/annual) - SaaS conference with sessions that include engineering hiring topics.
 - [Talent42](https://www.talent42.com) - Conference dedicated to technical recruiting, with sourcing training and sessions led by engineering leaders.
 - [DeveloperWeek Hiring Expo](https://developerweek.com/events/hiring-expo) - Tech industry developer hiring Expo connecting recruiters directly with engineers.
+- [Talent Acquisition Week](https://talentacquisitionweek.com) - Multi-event conference for TA leaders covering sourcing strategy, recruitment marketing, and candidate engagement.
+- [SHRM Talent](https://www.shrm.org/conferences/talent) - SHRM conference focused on talent acquisition strategy, sourcing, and hiring operations.
+- [ERE Recruiting Conference](https://www.ere.net/events) - Conference for recruiting practitioners with sessions on sourcing, hiring workflows, and candidate experience.
+- [Transform](https://www.transformhrtech.com) - Conference on HR technology and workforce innovation with recruiting-focused sessions.
 
 ## Contributing
 
