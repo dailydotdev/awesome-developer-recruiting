@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Security concerns (private reporting preferred)
+    url: https://github.com/dailydotdev/awesome-developer-recruiting/security/policy
+    about: Please use the Security tab for private vulnerability reporting when possible.
   - name: Contributor Code of Conduct
     url: https://github.com/dailydotdev/awesome-developer-recruiting/blob/main/code-of-conduct.md
     about: Please review expected behavior before participating.

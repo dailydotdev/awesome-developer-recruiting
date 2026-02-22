@@ -17,6 +17,15 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should include a clear title and a short note on why the resource belongs in this list.
 
+## Trust and Safety Checks
+
+Before submitting:
+
+- Use canonical HTTPS links (no shortened URLs, no tracking parameters).
+- Avoid links that immediately redirect through ad, affiliate, or unknown tracking domains.
+- If you are affiliated with a resource, disclose that in your PR description.
+- Flag suspicious or potentially malicious links using our security process in `SECURITY.md`.
+
 ## Updating Your Pull Request
 
 If the maintainers notice anything that needs to change before merging, we will ask you to edit your pull request. There is no need to open a new one. Please follow the suggestions in [this guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on how to update a pull request.
@@ -54,7 +63,8 @@ For non-PR suggestions and maintenance tasks, use the issue templates in `.githu
 - General recruitment tools with no specific developer or tech focus.
 - Unmaintained, deprecated, or archived projects.
 - Resources behind full paywalls, unless there is a strong reason to include them.
-- Affiliate links or marketing content disguised as resources.
+- Affiliate links, referral links, or URL shorteners.
+- Marketing content disguised as neutral resources.
 - Duplicate entries or tools that replicate an existing entry without clear differentiation.
 
 Thanks for helping improve the list.
