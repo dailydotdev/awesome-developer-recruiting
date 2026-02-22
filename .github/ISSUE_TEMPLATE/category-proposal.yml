@@ -1,0 +1,52 @@
+name: Category proposal
+description: Propose a new category or category restructuring.
+title: "[Category Proposal]: "
+labels:
+  - type:taxonomy
+  - area:categories
+  - status:triage
+body:
+  - type:dropdown
+    id: proposal-type
+    attributes:
+      label: Proposal type
+      options:
+        - Add new category
+        - Rename existing category
+        - Merge categories
+        - Split category
+    validations:
+      required: true
+
+  - type:textarea
+    id: current-state
+    attributes:
+      label: Current state
+      description: Describe the category setup today and what problem exists.
+    validations:
+      required: true
+
+  - type:textarea
+    id: proposed-change
+    attributes:
+      label: Proposed change
+      description: Describe the proposed structure and naming.
+    validations:
+      required: true
+
+  - type:textarea
+    id: candidate-entries
+    attributes:
+      label: Candidate entries
+      description: List resources that would move into the proposed category structure.
+      placeholder: "- Entry A\n- Entry B\n- Entry C"
+    validations:
+      required: true
+
+  - type:textarea
+    id: rationale
+    attributes:
+      label: Why this improves the list
+      description: Explain discoverability, clarity, or overlap reduction benefits.
+    validations:
+      required: true

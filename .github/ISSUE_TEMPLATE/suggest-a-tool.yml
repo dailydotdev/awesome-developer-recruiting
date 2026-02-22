@@ -1,0 +1,80 @@
+name: Suggest a tool
+description: Propose a new resource for the awesome list.
+title: "[Tool Suggestion]: "
+labels:
+  - type:suggestion
+  - area:content
+  - status:triage
+body:
+  - type:input
+    id: tool-name
+    attributes:
+      label: Tool name
+      description: Name of the resource you want to add.
+      placeholder: ExampleTool
+    validations:
+      required: true
+
+  - type:input
+    id: tool-url
+    attributes:
+      label: Canonical URL
+      description: Direct homepage URL for the resource.
+      placeholder: https://example.com
+    validations:
+      required: true
+
+  - type:dropdown
+    id: category
+    attributes:
+      label: Best-fit category
+      options:
+        - Sourcing Platforms
+        - Applicant Tracking Systems
+        - Technical Assessment
+        - Job Boards for Developers
+        - CRM and Outreach
+        - Interview Platforms
+        - AI Recruiting Tools
+        - Job Description Tools
+        - Employer Branding
+        - Developer Compensation
+        - Diversity and Inclusion
+        - Open Source Recruiting Tools
+        - Newsletters
+        - Communities
+        - Podcasts
+        - Books
+        - Blogs and Publications
+        - Research and Reports
+        - Glossaries and References
+        - Conferences and Events
+    validations:
+      required: true
+
+  - type:textarea
+    id: description
+    attributes:
+      label: Suggested list description
+      description: Use list format: [Name](URL) - Description.
+      placeholder: "[ExampleTool](https://example.com) - One-sentence, objective description."
+    validations:
+      required: true
+
+  - type:textarea
+    id: why
+    attributes:
+      label: Why this belongs
+      description: Explain developer-recruiting relevance and how it differs from current entries.
+    validations:
+      required: true
+
+  - type:checkboxes
+    id: checks
+    attributes:
+      label: Validation
+      options:
+        - label: I searched the README and this is not a duplicate.
+          required: true
+        - label: I verified the link is live and points to the canonical domain.
+          required: true

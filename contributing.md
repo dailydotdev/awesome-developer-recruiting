@@ -21,6 +21,26 @@ Please ensure your pull request adheres to the following guidelines:
 
 If the maintainers notice anything that needs to change before merging, we will ask you to edit your pull request. There is no need to open a new one. Please follow the suggestions in [this guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on how to update a pull request.
 
+## Issue Templates and Labels
+
+For non-PR suggestions and maintenance tasks, use the issue templates in `.github/ISSUE_TEMPLATE`.
+
+### Label taxonomy
+
+- `type:suggestion` - New resource suggestions.
+- `type:bug` - Incorrect links, factual errors, or formatting regressions.
+- `type:taxonomy` - Category structure updates and reorganizations.
+- `type:maintenance` - Recurring upkeep work (audits, cleanup, reviews).
+- `area:links` - Broken URL reports and link-quality tasks.
+- `area:categories` - Category placement and naming tasks.
+- `area:content` - Description quality, scope fit, and editorial tasks.
+- `status:triage` - Needs maintainer review and routing.
+- `status:needs-info` - Missing details from reporter.
+- `status:ready` - Clear next action is defined.
+- `priority:high` - Time-sensitive quality or reliability work.
+- `priority:medium` - Important improvements to complete soon.
+- `priority:low` - Nice-to-have backlog improvements.
+
 ## What We Are Looking For
 
 - Tools that are actively maintained and used in developer recruiting.

@@ -1,0 +1,49 @@
+name: Report dead link
+description: Report a broken or redirected link from the list.
+title: "[Dead Link]: "
+labels:
+  - type:bug
+  - area:links
+  - priority:high
+  - status:triage
+body:
+  - type:input
+    id: section
+    attributes:
+      label: Section
+      description: Where is the broken link listed?
+      placeholder: Technical Assessment
+    validations:
+      required: true
+
+  - type:input
+    id: resource-name
+    attributes:
+      label: Resource name
+      description: Name of the listed entry with the broken link.
+      placeholder: ExampleTool
+    validations:
+      required: true
+
+  - type:input
+    id: broken-url
+    attributes:
+      label: Broken URL
+      placeholder: https://example.com/old-page
+    validations:
+      required: true
+
+  - type:input
+    id: replacement-url
+    attributes:
+      label: Suggested replacement URL
+      description: If known, provide the current canonical link.
+      placeholder: https://example.com
+
+  - type:textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Include status code, redirect target, or screenshot details if relevant.
+    validations:
+      required: true
