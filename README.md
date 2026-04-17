@@ -111,6 +111,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Himalayas](https://himalayas.app) - Remote job board with company profiles, salary data, and timezone filters.
 - [Authentic Jobs](https://authenticjobs.com) - Job board focused on web and creative technology roles.
 - [Remotive](https://remotive.com) - Remote job board with a developer community and weekly newsletter covering engineering roles.
+- [AI Dev Jobs](https://aidevboard.com) - Job board specialized in AI/ML engineering roles, aggregating 8,400+ active listings from 580+ company ATS sources (Anthropic, OpenAI, Meta FAIR, DeepMind, Scale, Cohere) with a free REST API, RSS feed, and Schema.org JobPosting markup.
 
 ## CRM and Outreach
 
