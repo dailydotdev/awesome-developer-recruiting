@@ -227,6 +227,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [OpenResume](https://www.open-resume.com) - Open-source resume builder with ATS-focused formatting.
 - [Freshteam](https://www.freshworks.com/hrms/applicant-tracking) - ATS with a free tier for basic applicant tracking.
 - [RxResume](https://rxresu.me) - Free and open-source resume builder with customizable templates and JSON export.
+- [ATS Job APIs](https://github.com/noble-ronin/ats-job-apis) - Cheatsheet for pulling open developer roles straight from company ATS platforms (Greenhouse, Lever, Ashby, SmartRecruiters, Workday +4) via their public JSON APIs, no scraping.
 
 ## Newsletters
 
