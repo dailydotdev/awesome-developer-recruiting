@@ -225,6 +225,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 
 - [OpenCATS](https://www.opencats.org) - Open-source applicant tracking system for candidate and job management.
 - [OpenResume](https://www.open-resume.com) - Open-source resume builder with ATS-focused formatting.
+- [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker; State of ATS 2026 (738 employers, 704 portal-verified).
 - [Freshteam](https://www.freshworks.com/hrms/applicant-tracking) - ATS with a free tier for basic applicant tracking.
 - [RxResume](https://rxresu.me) - Free and open-source resume builder with customizable templates and JSON export.
 
