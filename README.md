@@ -142,6 +142,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Pramp](https://www.pramp.com) - Free peer-to-peer mock interview platform for practicing coding and system design interviews.
 - [GoodTime](https://goodtime.io) - Interview scheduling automation with intelligent panel selection, timezone handling, and load balancing.
 - [ModernLoop](https://www.modernloop.com) - Interview coordination platform that automates scheduling workflows and ATS syncing.
+- [Interview Signal](https://interviewersignal.com) - Desktop interview assistant that transcribes on the interviewer's computer without a meeting bot and writes scorecards backed by transcript quotes.
 
 ## AI Recruiting Tools
 
