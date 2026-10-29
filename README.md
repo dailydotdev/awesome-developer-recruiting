@@ -50,6 +50,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Dover](https://www.dover.com) - Recruiting orchestration platform with sourcing automation and a free ATS for startups.
 - [Handshake](https://joinhandshake.com) - Campus recruiting platform connecting employers with students and alumni across 1,600+ universities.
 - [CodePen](https://codepen.io) - Frontend developer portfolio platform where recruiters can evaluate candidates through live code showcases.
+- [AyHire](https://ayhire.com) - Finds and shortlists engineers from their public GitHub work, with a free profile check.
 
 ## Applicant Tracking Systems
 
