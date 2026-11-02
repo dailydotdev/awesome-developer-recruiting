@@ -158,6 +158,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Entelo](https://www.entelo.com) - Sourcing platform with predictive candidate matching.
 - [Moonhub](https://www.moonhub.ai) - AI recruiting agent that autonomously sources and screens candidates.
 - [Attract.ai](https://attract.ai) - AI-powered sourcing tool that searches across social platforms and generates personalized outreach.
+- [MentionFox](https://mentionfox.com/people-intelligence) - Pre-outreach research tool that builds a sourced profile of a person's published career, prior companies and press before a first call or interview.
 
 ## Job Description Tools
 
