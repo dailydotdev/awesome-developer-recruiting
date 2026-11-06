@@ -101,6 +101,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Key Values](https://www.keyvalues.com) - Job board where candidates filter companies by stated engineering culture values.
 - [Otta](https://otta.com) - Job board focused on startup and scale-up tech roles.
 - [Relocate.me](https://relocate.me) - Tech job board with relocation and visa support details.
+- [Jaabz](https://jaabz.com) - Tech job board with visa sponsorship, relocation, and remote filters.
 - [Working Nomads](https://www.workingnomads.com/jobs) - Remote job board with engineering and product categories.
 - [4 Day Week](https://4dayweek.io) - Job board for companies offering four-day work schedules.
 - [dev.to Listings](https://dev.to/listings) - Job listings posted through the DEV community platform.
