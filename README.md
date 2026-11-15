@@ -57,8 +57,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 
 - [Greenhouse](https://www.greenhouse.com) - ATS with scorecards, interview plans, and hiring analytics.
 - [Lever](https://www.lever.co) - ATS and CRM platform for pipeline management and team collaboration.
-- [Ashby](https://www.ashby.com) - Recruiting suite that combines ATS, scheduling, analytics, and CRM features.
-- [Workday Recruiting](https://www.workday.com/en-ca/applications/human-capital-management/recruiting.html) - Recruiting module in the Workday HCM product suite.
+- [Ashby](https://www.ashbyhq.com) - Recruiting suite that combines ATS, scheduling, analytics, and CRM features.
+- [Workday Recruiting](https://www.workday.com/en-us/products/talent-management/talent-acquisition.html) - Recruiting module in the Workday HCM product suite.
 - [Teamtailor](https://www.teamtailor.com) - ATS with career site tools and employer branding features.
 - [BambooHR](https://www.bamboohr.com) - HR system with applicant tracking features for growing teams.
 - [Recruitee](https://recruitee.com) - Recruiting software for pipeline management and collaborative hiring.
@@ -98,7 +98,6 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [We Work Remotely](https://weworkremotely.com) - Remote job board with software engineering categories.
 - [RemoteOK](https://remoteok.com) - Remote job aggregator with developer and engineering filters.
 - [Hacker News: Who is Hiring](https://news.ycombinator.com/submitted?id=whoishiring) - Monthly hiring thread used by startups and technical teams.
-- [Key Values](https://www.keyvalues.com) - Job board where candidates filter companies by stated engineering culture values.
 - [Otta](https://otta.com) - Job board focused on startup and scale-up tech roles.
 - [Relocate.me](https://relocate.me) - Tech job board with relocation and visa support details.
 - [Working Nomads](https://www.workingnomads.com/jobs) - Remote job board with engineering and product categories.
@@ -176,7 +175,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 *Tools and strategies for building a strong employer brand among developers.*
 
 - [Glassdoor for Employers](https://www.glassdoor.com/employers) - Employer profile and branding tools connected to reviews, salaries, and interview data.
-- [The Muse](https://www.themuse.com/employers) - Employer branding service with company profiles and content publishing.
+- [The Muse](https://www.themuse.com) - Employer branding service with company profiles and content publishing.
 - [Builtin](https://builtin.com) - Employer branding and job advertising network focused on tech markets.
 - [RepVue](https://www.repvue.com) - Employer ratings site with culture and compensation feedback.
 - [Comparably](https://www.comparably.com) - Company comparison site for workplace and compensation benchmarks.
@@ -193,9 +192,9 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Glassdoor Salaries](https://www.glassdoor.com/Salaries) - Salary database sourced from employee reports.
 - [Payscale](https://www.payscale.com) - Compensation software for salary benchmarking and market pricing.
 - [Pave](https://www.pave.com) - Compensation benchmarking tool connected to HR system data.
-- [Carta Total Comp](https://carta.com/total-comp) - Startup compensation and equity benchmarking tools.
+- [Carta Total Comp](https://carta.com/equity-management/compensation/) - Startup compensation and equity benchmarking tools.
 - [Ravio](https://ravio.com) - Compensation benchmarking service focused on European markets.
-- [Comptryx](https://www.comptryx.com) - Compensation benchmarking database for technical roles across global markets.
+- [Comptryx](https://shop.mercer.com/comptryx.html) - Mercer's compensation benchmarking database for technical roles across global markets.
 - [OpenComp](https://www.opencomp.com) - Compensation planning software with market benchmarks and pay equity analysis.
 - [Comprehensive.io](https://comprehensive.io) - Free real-time salary data from thousands of US tech companies, with premium global benchmarks.
 - [Figures.hr](https://figures.hr) - European-focused compensation benchmarking platform with HRIS integrations and pay equity tools.
@@ -225,7 +224,6 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 
 - [OpenCATS](https://www.opencats.org) - Open-source applicant tracking system for candidate and job management.
 - [OpenResume](https://www.open-resume.com) - Open-source resume builder with ATS-focused formatting.
-- [Freshteam](https://www.freshworks.com/hrms/applicant-tracking) - ATS with a free tier for basic applicant tracking.
 - [RxResume](https://rxresu.me) - Free and open-source resume builder with customizable templates and JSON export.
 
 ## Newsletters
@@ -237,7 +235,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com) - Newsletter covering engineering leadership, hiring, and compensation topics.
 - [Recruiting Daily](https://recruitingdaily.com/recruitingdaily-newsletter/) - Newsletter on sourcing, recruiting operations, and talent technology.
 - [Hacking HR](https://www.hackinghr.com) - Newsletter covering HR, people analytics, and workforce topics.
-- [People Managing People](https://peoplemanagingpeople.com/newsletter) - Weekly newsletter on hiring and people management.
+- [People Managing People](https://peoplemanagingpeople.com) - Publication and weekly newsletter on hiring and people management.
 - [Chad & Cheese](https://www.chadcheese.com/subscribe) - Newsletter with commentary on recruiting tools and HR technology.
 - [Technically](https://read.technically.dev) - Newsletter on software concepts explained for non-engineers, useful for recruiters learning technical terminology.
 
@@ -245,10 +243,9 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 
 *Communities where tech recruiters learn, share, and network.*
 
-- [Recruiting Brainfood Community](https://brainfood.social) - Recruiter community for sharing tools, tactics, and discussion.
 - [r/recruiting](https://www.reddit.com/r/recruiting/) - Reddit forum for recruiting questions and peer discussion.
 - [SourceCon Community](https://newsletter.sourcecon.com) - Community and event network focused on sourcing and recruiting.
-- [RecOps Collective](https://www.recops.co) - Community focused on recruiting operations systems and workflows.
+- [RecOps Collective](https://www.recopscollective.com) - Community focused on recruiting operations systems and workflows.
 - [r/humanresources](https://www.reddit.com/r/humanresources/) - Reddit community for HR professionals discussing hiring, compliance, and people operations.
 - [Hacker News](https://news.ycombinator.com) - Developer community and discussion forum useful for understanding what engineers care about.
 - [People Geek Community by Culture Amp](https://www.cultureamp.com/company/community) - Peer community for people and talent leaders sharing hiring and engagement practices.
@@ -260,9 +257,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Talk Talent to Me](https://www.hired.com/blog/podcast) - Podcast interviews with recruiting and talent leaders.
 - [The Recruitment Hackers](https://www.therecruitmenthackers.com) - Podcast on recruiting operations, sourcing, and candidate experience.
 - [Chad & Cheese Podcast](https://www.chadcheese.com) - Podcast covering recruiting tools and HR technology commentary.
-- [RecTech Podcast](https://www.rectechpodcast.com) - Podcast focused on recruiting technology and vendor trends.
-- [The Recruiting Future Podcast](https://recruitingfuture.com/podcast/) - Podcast on hiring strategy, automation, and talent operations.
-- [People Solving Problems](https://www.peoplesolvingproblems.com) - Podcast with engineering leaders discussing hiring and team building.
+- [RecTech Podcast](https://podcasts.apple.com/us/podcast/rec-tech-the-recruiting-technology-podcast/id1171738634) - Podcast focused on recruiting technology and vendor trends.
+- [The Recruiting Future Podcast](https://recruitingfuture.com) - Podcast on hiring strategy, automation, and talent operations.
 - [Hiring for What's Next](https://greenhouse.com/podcast) - Greenhouse podcast featuring talent leaders on structured hiring and recruiting strategy.
 - [10x Recruiting](https://www.metaview.ai/resources/10x-recruiting) - Podcast hosted by former DoorDash Head of Recruiting on AI in hiring and talent strategy.
 
@@ -310,8 +306,8 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [HackerRank Developer Skills Report](https://www.hackerrank.com/research/developer-skills) - Annual report on developer skills and hiring needs.
 - [CodinGame Developer Survey](https://www.codingame.com/work/developer-survey) - Survey on developer preferences in hiring and technical assessment.
 - [DevSkiller IT Skills Report](https://devskiller.com/it-skills-report) - Report on developer skill trends based on assessment data.
-- [Dice Tech Salary Report](https://www.dice.com/recruiting/ebooks/tech-salary-report) - Annual report on technology salary trends across roles and markets.
-- [Jobvite Recruiting Benchmark Report](https://www.jobvite.com/lp/recruiting-benchmark-report) - Annual benchmarks on applicant-to-hire ratios, time-to-fill, and sourcing channels.
+- [Dice Tech Salary Report](https://www.dice.com/hiring/recruitment/reports/dice-tech-salary-report) - Annual report on technology salary trends across roles and markets.
+- [Employ Hiring Benchmarks Report](https://www.employinc.com/employ-benchmarks-report/) - Annual hiring-funnel benchmarks from the company behind Jobvite, Lever, and JazzHR, covering applicant-to-hire ratios, time-to-fill, and sourcing channels.
 - [Gem Recruiting Benchmarks Report](https://www.gem.com/resource/recruiting-benchmarks) - Annual report on sourcing effectiveness, time-to-hire, and recruiter workload based on millions of data points.
 - [Greenhouse Workforce & Hiring Report](https://greenhouse.com/blog/greenhouse-2025-workforce-hiring-report) - Annual report on hiring trends, candidate behavior, and AI adoption in recruiting.
 
@@ -337,11 +333,10 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Unleash World](https://www.unleash.ai) - Conference on HR technology, talent acquisition, and people analytics.
 - [SaaStr Annual](https://www.saastr.com/annual) - SaaS conference with sessions that include engineering hiring topics.
 - [Talent42](https://www.talent42.com) - Conference dedicated to technical recruiting, with sourcing training and sessions led by engineering leaders.
-- [DeveloperWeek Hiring Expo](https://developerweek.com/events/hiring-expo) - Tech industry developer hiring Expo connecting recruiters directly with engineers.
 - [Talent Acquisition Week](https://talentacquisitionweek.com) - Multi-event conference for TA leaders covering sourcing strategy, recruitment marketing, and candidate engagement.
-- [SHRM Talent](https://www.shrm.org/conferences/talent) - SHRM conference focused on talent acquisition strategy, sourcing, and hiring operations.
-- [ERE Recruiting Conference](https://www.ere.net/events) - Conference for recruiting practitioners with sessions on sourcing, hiring workflows, and candidate experience.
-- [Transform](https://www.transformhrtech.com) - Conference on HR technology and workforce innovation with recruiting-focused sessions.
+- [SHRM Talent](https://conference.shrm.org/talent-conference) - SHRM conference focused on talent acquisition strategy, sourcing, and hiring operations.
+- [ERE Recruiting Conference](https://www.ererecruitingconference.com) - Conference for recruiting practitioners with sessions on sourcing, hiring workflows, and candidate experience.
+- [Transform](https://www.transform.us) - Conference on HR technology and workforce innovation with recruiting-focused sessions.
 
 ## Contributing
 
@@ -349,4 +344,4 @@ Please read the [contribution guidelines](contributing.md) before submitting a p
 
 ## Last Verified
 
-List links and descriptions were last verified in **2026-02**.
+List links and descriptions were last verified in **2026-11**.
