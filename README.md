@@ -310,6 +310,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Employ Hiring Benchmarks Report](https://www.employinc.com/employ-benchmarks-report/) - Annual hiring-funnel benchmarks from the company behind Jobvite, Lever, and JazzHR, covering applicant-to-hire ratios, time-to-fill, and sourcing channels.
 - [Gem Recruiting Benchmarks Report](https://www.gem.com/resource/recruiting-benchmarks) - Annual report on sourcing effectiveness, time-to-hire, and recruiter workload based on millions of data points.
 - [Greenhouse Workforce & Hiring Report](https://greenhouse.com/blog/greenhouse-2025-workforce-hiring-report) - Annual report on hiring trends, candidate behavior, and AI adoption in recruiting.
+- [Weekly Engineering Hiring Data](https://github.com/bjhozie36-ship-it/engineering-hiring-data) - Free weekly CSVs of open engineering roles, new roles and published pay at tech companies and YC startups, CC BY 4.0.
 
 ## Glossaries and References
 
