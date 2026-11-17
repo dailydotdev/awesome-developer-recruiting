@@ -198,6 +198,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [OpenComp](https://www.opencomp.com) - Compensation planning software with market benchmarks and pay equity analysis.
 - [Comprehensive.io](https://comprehensive.io) - Free real-time salary data from thousands of US tech companies, with premium global benchmarks.
 - [Figures.hr](https://figures.hr) - European-focused compensation benchmarking platform with HRIS integrations and pay equity tools.
+- [Matrixx Salary Benchmark](https://matrixx-hiring-signals.netlify.app/tools/salary-benchmark/) - Free median and percentile pay for software engineering roles by role family and seniority, built from published salary ranges on tech and YC startup career pages and updated weekly.
 
 ## Diversity and Inclusion
 
