@@ -90,6 +90,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [HiPeople](https://www.hipeople.io) - Reference checking and talent assessment platform with automated candidate verification.
 - [AlgoExpert](https://www.algoexpert.io) - Structured preparation platform for algorithm and system design interviews.
 - [HackerEarth](https://www.hackerearth.com) - Technical hiring platform with coding challenges, hackathons, and assessment analytics.
+- [Codesolara](https://codesolara.com) - Technical screening with a candidate-side AI assistant and scorecards that cite code and session evidence. Walkthrough-only beta.
 
 ## Job Boards for Developers
 
