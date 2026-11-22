@@ -10,6 +10,7 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Applicant Tracking Systems](#applicant-tracking-systems)
 - [Technical Assessment](#technical-assessment)
 - [Job Boards for Developers](#job-boards-for-developers)
+- [Jobs Data and APIs](#jobs-data-and-apis)
 - [CRM and Outreach](#crm-and-outreach)
 - [Interview Platforms](#interview-platforms)
 - [AI Recruiting Tools](#ai-recruiting-tools)
@@ -110,6 +111,12 @@ Developer recruiting is a specialized discipline. Generic recruiting tools often
 - [Himalayas](https://himalayas.app) - Remote job board with company profiles, salary data, and timezone filters.
 - [Authentic Jobs](https://authenticjobs.com) - Job board focused on web and creative technology roles.
 - [Remotive](https://remotive.com) - Remote job board with a developer community and weekly newsletter covering engineering roles.
+
+## Jobs Data and APIs
+
+*APIs and data feeds of developer job postings for recruiting products and hiring-signal tools.*
+
+- [JobsPipe](https://jobspipe.dev) - Jobs data API with 16.6M active postings from 30+ ATS and job boards in one schema, with webhooks and an MCP server.
 
 ## CRM and Outreach
 
